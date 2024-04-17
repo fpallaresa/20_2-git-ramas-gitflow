@@ -1,5 +1,15 @@
+ESPAÑOL:
+
 Hola!
 
 Este es un fichero de prueba
 
 Solo contiene texto
+
+ENGLISH:
+
+Hi!
+
+This is a test file
+
+Only contains text

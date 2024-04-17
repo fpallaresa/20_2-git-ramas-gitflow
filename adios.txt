@@ -1,5 +1,15 @@
+ESPAÑOL:
+
 Este es el archivo adiós.txt
 
 Seguramente sea el último archivo que subamos a este repo
 
 Adiós!
+
+ENGLISH:
+
+This is the "adios.txt" file
+
+Probably this is the last file that we upload to this repository
+
+Bye!

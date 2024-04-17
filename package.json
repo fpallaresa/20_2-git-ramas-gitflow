@@ -1,0 +1,19 @@
+{
+  "name": "20_2-git-ramas-gitflow",
+  "version": "2.0.0",
+  "description": "This is a test repo for git",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fpallaresa/20_2-git-ramas-gitflow.git"
+  },
+  "author": "Francesc Pallares",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/fpallaresa/20_2-git-ramas-gitflow/issues"
+  },
+  "homepage": "https://github.com/fpallaresa/20_2-git-ramas-gitflow#readme"
+}
